@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 <Import Project="..\..\..\Version.props" />
-  
+
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ProjectGuid>{FF742965-9A80-41A5-B042-D6C7D3A21708}</ProjectGuid>
