@@ -13,7 +13,7 @@
     <Description>PowerToys UnitTests-SvgThumbnailProvider</Description>
     <Copyright>Copyright (C) 2020 Microsoft Corporation</Copyright>
   </PropertyGroup>
-  
+
   <PropertyGroup>
     <ProjectGuid>{1EF1EEF0-10F0-4F2E-8550-39B6D8044D3E}</ProjectGuid>
     <RootNamespace>SvgThumbnailProviderUnitTests</RootNamespace>
@@ -24,9 +24,9 @@
     <IsCodedUITest>False</IsCodedUITest>
     <TestProjectType>UnitTest</TestProjectType>
   </PropertyGroup>
-   
+
   <Import Project="..\..\..\Version.props" />
-  
+
   <ItemGroup>
     <PackageReference Include="Castle.Core" Version="4.4.1" />
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.3.0">
