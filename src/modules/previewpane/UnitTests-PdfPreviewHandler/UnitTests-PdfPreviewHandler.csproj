@@ -13,7 +13,7 @@
     <Description>PowerToys UnitTests-PdfPreviewHandler</Description>
     <Copyright>Copyright (C) 2020 Microsoft Corp.</Copyright>
   </PropertyGroup>
-  
+
   <PropertyGroup>
     <ProjectGuid>{ECC20689-002A-4354-95A6-B58DF089C6FF}</ProjectGuid>
     <RootNamespace>PreviewPaneUnitTests</RootNamespace>
@@ -32,7 +32,7 @@
     <None Remove="HelperFiles\dummy.pdf" />
     <None Remove="HelperFiles\sample.pdf" />
   </ItemGroup>
-  
+
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.4.0" />
   </ItemGroup>
