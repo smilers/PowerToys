@@ -28,7 +28,7 @@
   <Import Project="..\..\..\Version.props" />
   
   <ItemGroup>
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.10.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.4.0" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Markdig.Signed" Version="0.22.0" />
